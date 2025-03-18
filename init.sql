@@ -9,3 +9,5 @@ CREATE TABLE IF NOT EXISTS users (
 
 INSERT INTO users (name, email) VALUES ('Juan Pérez', 'juan@example.com');
 INSERT INTO users (name, email) VALUES ('Ana Gómez', 'ana@example.com');
+INSERT INTO users (name, email) VALUES ('Josue Perez', 'josuepe03.com');
+
